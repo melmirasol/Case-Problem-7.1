@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="efL3LyiEJ6iacGbNXSep-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Verdana;fontSize=18;" value="&lt;b&gt;Cable and Machine Zone&lt;/b&gt;&lt;div&gt;cable towers visible from walkway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;popular machines placed in open rows,&amp;nbsp;&lt;/div&gt;&lt;div&gt;“work-in friendly” spacing&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="575" x="584" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="efL3LyiEJ6iacGbNXSep-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;fontSize=18;" value="&lt;b&gt;Serious Strength Zone&lt;/b&gt;&lt;div&gt;racks and platforms,&amp;nbsp;heavy dumbbells,&lt;/div&gt;&lt;div&gt;clear boundary cues&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="575" x="10" y="480" as="geometry" />
+        </mxCell>
         <mxCell id="EIlOwpHG9CpfIfPjWEGD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontSize=18;fontColor=#333333;" value="Showers and Lockers" vertex="1">
-          <mxGeometry height="100" width="575" x="585" y="720" as="geometry" />
+          <mxGeometry height="100" width="575" x="10" y="720" as="geometry" />
         </mxCell>
         <mxCell id="EIlOwpHG9CpfIfPjWEGD-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontSize=18;fontColor=#333333;fontStyle=1" value="Kids Active Zone" vertex="1">
           <mxGeometry height="150" width="285" x="874" y="10" as="geometry" />
@@ -14,24 +20,18 @@
           <mxGeometry height="150" width="285" x="590" y="10" as="geometry" />
         </mxCell>
         <mxCell id="EIlOwpHG9CpfIfPjWEGD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontSize=18;fontColor=#333333;" value="Showers and Lockers" vertex="1">
-          <mxGeometry height="90" width="575" x="9" y="730" as="geometry" />
+          <mxGeometry height="100" width="575" x="585" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="efL3LyiEJ6iacGbNXSep-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Verdana;fontSize=18;" value="Cardio Bank B" vertex="1">
+        <mxCell id="efL3LyiEJ6iacGbNXSep-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Verdana;fontSize=18;" value="&lt;b&gt;Cardio Bank B&lt;/b&gt;&lt;div&gt;bikes, rowers, stair climbers,&amp;nbsp;&lt;/div&gt;&lt;div&gt;low-wait cardio alternatives,&amp;nbsp;rainy-day overflow relief&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="575" x="584" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="efL3LyiEJ6iacGbNXSep-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Verdana;fontSize=18;" value="Cable and Machine Zone" vertex="1">
-          <mxGeometry height="120" width="575" x="584" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="efL3LyiEJ6iacGbNXSep-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;fontSize=18;" value="Serious Strength Zone" vertex="1">
-          <mxGeometry height="120" width="575" x="9" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="efL3LyiEJ6iacGbNXSep-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontSize=18;" value="Recovery and Mobility" vertex="1">
+        <mxCell id="efL3LyiEJ6iacGbNXSep-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontSize=18;" value="&lt;b&gt;Recovery and Mobility&lt;/b&gt;&lt;div&gt;mats and rollers,&amp;nbsp;quiet rules,&lt;/div&gt;&lt;div&gt;stretching rails&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="575" x="9" y="600" as="geometry" />
         </mxCell>
         <mxCell id="efL3LyiEJ6iacGbNXSep-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Verdana;fontSize=18;align=center;" value="&lt;b&gt;Functional Training and Group Studio&lt;/b&gt;&lt;div&gt;cycling or row class blocks,&amp;nbsp;boxing bags,&amp;nbsp;&lt;/div&gt;&lt;div&gt;sled strip, step platforms,&amp;nbsp;can convert to overflow cardio&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="575" x="585" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="efL3LyiEJ6iacGbNXSep-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;fontSize=18;align=center;" value="&lt;b&gt;&quot;Express 30&quot; Zone&lt;/b&gt;&lt;div&gt;10 station loop,&amp;nbsp;timer screen,&lt;/div&gt;&lt;div&gt;2 entry points for staggered starts&lt;/div&gt;" vertex="1">
+        <mxCell id="efL3LyiEJ6iacGbNXSep-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Verdana;fontSize=18;align=center;" value="&lt;b&gt;&quot;Express 30&quot; Zone&lt;/b&gt;&lt;div&gt;10 station loop,&amp;nbsp;timer screen,&lt;/div&gt;&lt;div&gt;2 entry points for staggered starts&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="575" x="585" y="200" as="geometry" />
         </mxCell>
         <mxCell id="efL3LyiEJ6iacGbNXSep-7" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;" value="" vertex="1">
@@ -44,12 +44,12 @@
           <mxGeometry height="10" width="400" x="10" y="150" as="geometry" />
         </mxCell>
         <mxCell id="efL3LyiEJ6iacGbNXSep-21" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="10" width="580" x="10" y="720" as="geometry" />
+          <mxGeometry height="10" width="580" x="585" y="720" as="geometry" />
         </mxCell>
         <mxCell id="efL3LyiEJ6iacGbNXSep-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontSize=18;align=center;" value="&lt;b&gt;Beginner Zone&lt;/b&gt;&lt;div&gt;selector machines, light dumbbells,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Start Here&quot; board, staff help spot&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="575" x="10" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="efL3LyiEJ6iacGbNXSep-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Verdana;fontSize=18;" value="&lt;b&gt;Cardio Bank A&lt;/b&gt;&lt;div&gt;treadmills, ellipticals, bikes&lt;/div&gt;" vertex="1">
+        <mxCell id="efL3LyiEJ6iacGbNXSep-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontFamily=Verdana;fontSize=18;" value="&lt;b&gt;Cardio Bank A&lt;/b&gt;&lt;div&gt;treadmills, ellipticals, bikes,&amp;nbsp;queuing marks&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="575" x="10" y="320" as="geometry" />
         </mxCell>
         <mxCell id="efL3LyiEJ6iacGbNXSep-25" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rotation=90;" value="" vertex="1">
@@ -77,7 +77,7 @@
           <mxGeometry height="10" width="100" x="250" y="150" as="geometry" />
         </mxCell>
         <mxCell id="EIlOwpHG9CpfIfPjWEGD-14" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="10" width="580" x="7.5" y="314" as="geometry" />
+          <mxGeometry height="10" width="402.5" x="7.5" y="314" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
